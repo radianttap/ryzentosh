@@ -1,6 +1,6 @@
 # Ryzentosh
 
-Adventures in building Hackintosh based with OpenCore, based on AMD Ryzen CPUs
+Adventures in building Hackintosh based with OpenCore (0.5.5), based on AMD Ryzen CPUs.
 
 Contents so far:
 
