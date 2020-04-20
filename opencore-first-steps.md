@@ -295,7 +295,7 @@ Download, follow the installation steps in the README and execute `MountEFI.comm
 
 Pick the number next to the OpenCoreUSB (do *not* choose your existing MacBook Pro disk), type your password when asked for and it’s done. Quit `mountEFI` and open the EFI partition.
 
-I repeat: be very careful to *not* choose number next to your MacBook Pro disk. If you do that and alter that EFI partition you may render your MBP un-bootable.
+I repeat: be very careful to *not* choose number next to your MacBook Pro disk. If you do that and alter that EFI partition you [will render your MBP un-bootable](https://www.reddit.com/r/hackintosh/comments/g4lw7t/so_bricked_my_real_mac_by_accidentally_installing/).
 
 Now, with EFI shown on the Desktop, open it and you’ll see it’s empty. Copy the EFI folder you have prepared over there.
 
