@@ -1,4 +1,4 @@
-Note: this was writte back in 0.5.3 to 0.5.5 days. OpenCore is progressing well and some things are different today (mainly, they are simpler). Follow the [release notes](https://github.com/acidanthera/OpenCorePkg/releases) and keep-up.
+Note: this was written back in 0.5.3 to 0.5.5 days. OpenCore is progressing well and some things are different today (mainly, they are simpler). Follow the [release notes](https://github.com/acidanthera/OpenCorePkg/releases) and keep-up.
 
 # Ryzentosh
 
